@@ -1,0 +1,13 @@
+.centrer{
+    text-align:center;
+}
+.txt_connexion{
+    height: 250px;
+    font-size: 3em;
+    font-family: sans-serif;
+    margin-top: 5%;
+}
+.txt_login{
+    font-size: 2em;
+    font-family: sans-serif;
+}
